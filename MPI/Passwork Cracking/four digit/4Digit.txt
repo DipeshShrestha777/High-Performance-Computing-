@@ -1,0 +1,15 @@
+#997879  DV7878 $6$KB$KOcT8Th1N9ARb6vf/blwuYNaVjLQwIHFPAIV9Jxyh164L1c3iE4jNwTqyF/znBH76RFF/Z1Cfre92y5Db4p.3.
+3380000 solutions explored
+3380000 solutions explored
+#1218788 ER8787 $6$KB$pj21qw8vMXjo9TcFM13siY8/.Uwbb1k/OfUknO0q5mo4uteMFcVeO85YH5mrzp6WWPrpxl7uYvoFyLbmu5Ckx.
+3380000 solutions explored
+3380000 solutions explored
+#1745859 GS5858 $6$KB$ICctVIo/0bm8O2g8mxO3F9RVj7etVP5WuzjCIT0ugW0woNmPxD1GbT6LfbHGOf4ejC6Xev77q/No6tnfPOshW.
+3380000 solutions explored
+3380000 solutions explored
+#1568889 TA8888 $6$KB$kQl9ucyBrqHxn9ABWp7InQTvxtUf3TWysvcjLx1aESkvtDjlmuGDNpks2yC36U8SKvf0VQd9ymqOgLZcKvcL1/
+3380000 solutions explored
+3380000 solutions explored
+Time elapsed was 41389915605684ns or 41389.915605684s
+Time elapsed was 41389915558000ns or 41389.915558000s
+Time elapsed was 41389915603697ns or 41389.915603697s

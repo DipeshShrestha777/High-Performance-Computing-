@@ -1,0 +1,20 @@
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 529674699nsec or 0.529674699sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 342267446nsec or 0.342267446sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 438747887nsec or 0.438747887sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 508307312nsec or 0.508307312sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 363371248nsec or 0.363371248sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 381305260nsec or 0.381305260sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 380661369nsec or 0.380661369sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 415220536nsec or 0.415220536sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 410039978nsec or 0.410039978sec
+minimum m,c is 1.320000, 34.480000 with error 9.558794
+TIme elasped: 426403251nsec or 0.426403251sec
